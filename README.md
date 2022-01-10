@@ -1,4 +1,4 @@
-# Opa! Meu nome é Juan, estudo programação 🤓
+# Opa! Meu nome é Juan e eu estudo programação 🤓
 
 - Sou **estudante** e gosto de programar
 - Tô estudando muito front-end, mas, futuramente, vou focar em Python, Java, PHP dentre outras...
