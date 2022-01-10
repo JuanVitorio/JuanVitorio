@@ -1,16 +1,22 @@
-### Hi there 👋
+# Opa! Meu nome é Juan, estudo programação 🤓
 
-<!--
-**Whoan10/Whoan10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Sou **estudante** e gosto de programar
+- Tô estudando muito front-end, mas, futuramente, vou focar em Python, Java, PHP dentre outras...
 
-Here are some ideas to get you started:
+### No momento concluí cursos básicos de:
+* HTML/CSS (continuo me aperfeiçoando mais)
+* Git e Github
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Estou estudando
+* Linux
+* PHP
+* Python
+
+### Redes sociais:
+- [Instagram](https://instagram.com/juanvitorio_)
+- [Twitter](https://twitter.com/JuanVitrioDutr2)
+- [Linkedin](https://www.linkedin.com/in/juan-vit%C3%B3rio-747b5822a/)
+
+
+
+
