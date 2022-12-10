@@ -1,6 +1,6 @@
 # Opa! Meu nome é Juan e eu estudo programação 🤓
 
-#### Sou **estudante** do curso técnico de informática pelo IFRN e gosto de programar
+## Sou **estudante** do curso técnico de informática pelo IFRN e gosto de programar
 
 ### No momento estou mais focado em JavaScript e Python, mais especificamente no Django
 
