@@ -1,18 +1,8 @@
 # Opa! Meu nome é Juan e eu estudo programação 🤓
 
-- Sou **estudante** e gosto de programar
-- Tô estudando muito front-end, mas, futuramente, vou focar em Python, Java, PHP dentre outras...
+- Sou **estudante** do curso técnico de informática pelo IFRN e gosto de programar
 
-### No momento concluí cursos básicos de:
-* Curso básico de HTML e CSS - Módulo 1 - Curso em Vídeo
-* Curso básico de HTML e CSS - Módulo 2 - Curso em Vídeo
-* Git e Github - Curso em Vídeo
-
-### Estou estudando
-* Javascript
-* PHP
-* Python
-
+### No momento estou mais focado em JavaScript e Python, mais especificamente no Django
 
 ### Redes sociais:
 - [Twitter](https://twitter.com/JuanVitrioDutr2)
