@@ -1,6 +1,6 @@
 # Opa! Meu nome é Juan e eu estudo programação 🤓
 
-### Sou **estudante** do curso técnico de informática pelo IFRN.
+### Sou técnico em informática pelo IFRN e curso Sistemas de Informação pela UFRN
 
 <div>
   <a href="https://github.com/whoan10">
@@ -21,7 +21,7 @@
 ### No momento estou mais focado em JavaScript e Python, mais especificamente no Django...
   
 ### Redes sociais:
-- [Twitter](https://twitter.com/JuanVitrioDutr2)
+- [Instagram](https://www.instagram.com/juanvitorio_)  
 - [Linkedin](https://www.linkedin.com/in/juan-vit%C3%B3rio-747b5822a/)
 
 
