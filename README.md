@@ -17,8 +17,6 @@
           
     
 </div>
-
-### No momento estou mais focado em JavaScript e Python, mais especificamente no Django...
   
 ### Redes sociais:
 - [Instagram](https://www.instagram.com/juanvitorio_)  
