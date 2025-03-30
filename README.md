@@ -17,9 +17,7 @@
           
     
 </div>
-  
-### Redes sociais:
-- [Instagram](https://www.instagram.com/juanvitorio_)  
+
 - [Linkedin](https://www.linkedin.com/in/juan-vit%C3%B3rio-747b5822a/)
 
 
