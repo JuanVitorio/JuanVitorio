@@ -1,9 +1,9 @@
-# Opa! Meu nome é Juan e eu estudo programação 🤓
+# Olá, meu nome é Juan Vitório
 
 ### Sou técnico em informática pelo IFRN e curso Sistemas de Informação pela UFRN
 
 <div>
-  <a href="https://github.com/whoan10">
+  <a href="https://github.com/JuanVitorio">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JuanVitorio&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuanVitorio&layout=compact&langs_count=7&theme=dark"/>
 </div>
